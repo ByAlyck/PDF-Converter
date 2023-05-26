@@ -7,7 +7,7 @@ A PDF converter built with HTML, CSS, and JavaScript is a powerful and flexible 
 
 ### `JavaScript` is a high-level programming language that allows you to add interactivity and dynamic functionality to web pages. With JavaScript, you can respond to user events (clicks, mouse movements, form submissions), manipulate and modify HTML elements, make requests to servers, create animations, validate data, and much more. It enables you to make your web pages more interactive and responsive, enhancing the user experience.
 
-Together, ### `HTML`, ### `CSS`, and ### `JavaScript` form the foundation of web front-end development. HTML provides the structure, CSS adds the style and visual appearance, and JavaScript adds interactivity and logic. These technologies are used together to create dynamic, visually appealing, and functional web pages.
+Together, `HTML`, `CSS`, and `JavaScript` form the foundation of web front-end development. HTML provides the structure, CSS adds the style and visual appearance, and JavaScript adds interactivity and logic. These technologies are used together to create dynamic, visually appealing, and functional web pages.
 
 [𝗣𝗗𝗙 𝗖𝗼𝗻𝘃𝗲𝗿𝘁𝗲𝗿](https://byalyck.github.io/PDF-Converter/)
 ##
